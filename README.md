@@ -1,4 +1,8 @@
 
-Go to workshop.
+Add this to your project.
 
-Finish with the tests in the demo-app directory.
+Either fork and clone to your project
+
+or
+
+download zip and add to your project.
