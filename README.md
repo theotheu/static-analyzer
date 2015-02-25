@@ -1,6 +1,4 @@
 
-Add this to your project.
-
 Either fork and clone to your project
 
 or
